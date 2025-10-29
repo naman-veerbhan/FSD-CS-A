@@ -3,7 +3,7 @@ function register(){
     console.log('register end');
 }
 function sendEmail(){
-    waitforfiveseconds()
+    waitforfiveseconds
     console.log('send email end');
 }
 function login(){
