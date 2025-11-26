@@ -1,0 +1,16 @@
+{
+  "name": "naman-veerbhan",
+  "version": "1.0.0",
+  "description": "my backend priject\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[o\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Naman Veerbhan",
+  "license": "ISC"
+}
